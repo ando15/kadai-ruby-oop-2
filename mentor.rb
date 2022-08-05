@@ -16,8 +16,8 @@ class RailsMentor < Mentor
   end
 end
 
-mentor_A = Mentor.new("煌木")
-railsmentor_A = RailsMentor.new("赤出")
+kirameki = Mentor.new("煌木")
+akade = RailsMentor.new("赤出")
 
-mentor_A.job
-railsmentor_A.job
+kirameki.job
+akade.job
